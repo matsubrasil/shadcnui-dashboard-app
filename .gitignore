@@ -9,6 +9,12 @@
 # testing
 /coverage
 
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json  -- Line discovered that was overriding above (REMOVE)
+
+
+
 # next.js
 /.next/
 /out/
